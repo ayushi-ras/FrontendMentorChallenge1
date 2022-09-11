@@ -1,0 +1,74 @@
+@import url('https://fonts.google.com/specimen/Outfit:wght@400;700&display=swap');
+
+:root{
+    --white: hsl(0, 0%, 100%);
+    --light-gray: hsl(212, 45%, 89%);
+    --grayish-blue: hsl(220, 15%, 55%);
+    --dark-blue: hsl(218, 44%, 22%);
+}
+
+body{
+    background-color: var(--light-gray);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: Outfit,sans-serif;
+    margin: 0;
+}
+
+.card{
+    width: 320px;
+    padding: 20px;
+    border-radius: 19px;
+    background-color: var(--white);
+    box-shadow: 0 3px 15px var(--dark-blue);
+    align-items: center;
+    position: center;
+}
+
+.card img{
+    display: block;
+    width: 320px;
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+.content{
+    color: var(--grayish-blue);
+    align-items: center;
+    text-align: center;
+    font-size: 15px;
+}
+
+.heading{
+    text-align: center;
+    margin: 20px 0;
+    font-size: 1.4rem;
+    color: var(--dark-blue);
+}
+
+@media screen and (max-width:375px){
+    .card{
+        width: 80%;
+        height: 70vh;
+    }
+
+    .card img{
+        width: 290px;
+        border-radius: 10px;
+    }
+
+    .heading{
+        font-weight: 700;
+        font-size: 1.2rem;
+    }
+
+    .content{
+        font-weight: 400;
+        font-size: 0.9rem;
+        color: var(--grayish-blue);
+    }
+
+}
