@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/ayushi-ras/FrontendMentorChallenge1)
+- Live Site URL: (https://ayushi-ras.github.io/FrontendMentorChallenge1/)
 
 ## My process
 
@@ -40,4 +40,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Ayushi Rastogi](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ayushi-ras](https://www.frontendmentor.io/profile/ayushi-ras)
