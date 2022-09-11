@@ -45,7 +45,8 @@ body{
 .heading{
     text-align: center;
     margin: 20px 0;
-    font-size: 1rem;
+    font-size: 1.2rem;
+    font-weight: 200;
     color: var(--dark-blue);
 }
 
