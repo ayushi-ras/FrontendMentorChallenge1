@@ -19,7 +19,7 @@ body{
 }
 
 .card{
-    width: 320px;
+    width: 300px;
     padding: 20px;
     border-radius: 19px;
     background-color: var(--white);
@@ -30,7 +30,7 @@ body{
 
 .card img{
     display: block;
-    width: 320px;
+    width: 300px;
     border-radius: 10px;
     max-width: 100%;
 }
@@ -45,8 +45,8 @@ body{
 .heading{
     text-align: center;
     margin: 20px 0;
-    font-size: 1.2rem;
-    font-weight: 200;
+    font-size: 1.4rem;
+    font-weight: 700;
     color: var(--dark-blue);
 }
 
